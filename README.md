@@ -5,7 +5,7 @@
 
 - 🔭 I’m a computer engineering student **in Kwame Nkrumah University of Science and Technology**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **asarebenedicta75@gmail.com**
 
